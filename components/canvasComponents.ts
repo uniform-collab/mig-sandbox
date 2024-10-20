@@ -2,3 +2,5 @@
 
 import "./Page";
 import "./Hero";
+import "./ArticleDetail";
+import "./RichTextBlock";
